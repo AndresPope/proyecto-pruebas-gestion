@@ -1,0 +1,1 @@
+export const SECRET_KEY = "SUPER_SECRET_KEY" as const;
