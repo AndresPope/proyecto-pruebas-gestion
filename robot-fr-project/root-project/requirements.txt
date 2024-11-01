@@ -1,0 +1,6 @@
+robotframework
+robotframework-seleniumlibrary
+robotframework-databaselibrary
+robotframework-zoomba
+robotframework-datadriver
+robotframework-screencaplibrary

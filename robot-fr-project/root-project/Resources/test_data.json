@@ -1,0 +1,24 @@
+{
+  "test_users": [
+    {
+      "nit": "1234567890",
+      "firstName": "Juan",
+      "secondName": "Carlos",
+      "firstLastName": "Perez",
+      "secondLastName": "Lopez",
+      "birthday": "1990-01-01",
+      "phone": "3001234567",
+      "email": "juan.perez@test.com"
+    },
+    {
+      "nit": "0987654321",
+      "firstName": "Maria",
+      "secondName": "Isabel",
+      "firstLastName": "Garcia",
+      "secondLastName": "Rodriguez",
+      "birthday": "1995-05-15",
+      "phone": "3107654321",
+      "email": "maria.garcia@test.com"
+    }
+  ]
+}
